@@ -1,0 +1,164 @@
+Description of variables
+_____________________________
+FFT: Fast Fourier Transform
+
+LAYING: Subject's activity is laying down
+
+SITTING: Subject's activity is sitting up
+
+STANDING: Subject's activity is standing
+
+WALKING: Subject's activity is walking in a flat plane
+
+WALKING UP STAIRS: Subject's activity is walking up stairs
+
+WALKING DOWN STAIRS: Subject's activity is walking downstairs
+
+Subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
+
+TimebodyAccelerationmeany: The mean time of the acceleration signal from the smartphone accelerometer y axis while the 	subject doing listed activity
+
+TimebodyAccelerationmeanz:	The mean time of the acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+TimebodyAccelerationstdx:	The time standard deviation of the acceleration signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+TimebodyAccelerationstdy:	The time standard deviation of the acceleration signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+TimebodyAccelerationstdz:	The time standard deviation of the acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+TimegravityAccelerationmeanx:	The mean time of the  gravity acceleration signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+TimegravityAccelerationmeany:	The mean time of the  gravity acceleration signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+TimegravityAccelerationmeanz:	The mean time of the  gravity acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+TimegravityAccelerationstdx:	The time standard deviation of the  gravity acceleration signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+TimegravityAccelerationstdy:	The time standard deviation of the  gravity acceleration signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+TimegravityAccelerationstdz:	The time standard deviation of the  gravity acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+TimebodyAccelerationjerkmeanx:	The mean time of the acceleration jerk signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+TimebodyAccelerationjerkmeany:	The mean time of the acceleration jerk signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+TimebodyAccelerationjerkmeanz:	The mean time of the acceleration jerk signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+TimebodyAccelerationjerkstdx:	The time standard deviation of the acceleration jerk signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+TimebodyAccelerationjerkstdy:	The time standard deviation of the acceleration jerk signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+TimebodyAccelerationjerkstdz:	The time standard deviation of the acceleration jerk signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+Timebodygyromeanx:	The mean time of the  gravity gyroscope signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+Timebodygyromeany:	The mean time of the  gravity gyroscope signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+Timebodygyromeanz:	The mean time of the  gravity gyroscope signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+Timebodygyrostdx:	The time stand deviation of the  gravity gyroscope signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+Timebodygyrostdy:	The time stand deviation of the  gravity gyroscope signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+Timebodygyrostdz:	The time stand deviation of the  gravity gyroscope signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+Timebodygyrojerkmeanx:	The mean time of the  gravity gyroscope jerk signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+Timebodygyrojerkmeany:	The mean time of the  gravity gyroscope jerk signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+Timebodygyrojerkmeanz:	The mean time of the  gravity gyroscope jerk signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+Timebodygyrojerkstdx:	The time standard deviation of the  gravity gyroscope jerk signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+Timebodygyrojerkstdy:	The time standard deviation of the  gravity gyroscope jerk signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+Timebodygyrojerkstdz:	The time standard deviation of the  gravity gyroscope jerk signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+TimebodyAccelerationmagmean:	The mean time of the acceleration magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+TimebodyAccelerationmagstd:	The  time standard deviation of the acceleration magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+TimegravityAccelerationmagmean:	The mean time of the gravity acceleration magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+TimegravityAccelerationmagstd:	The time standard deviation of the gravity acceleration magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+TimebodyAccelerationjerkmagmean:	The mean time of the gravity acceleration jerk magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+TimebodyAccelerationjerkmagstd:	The time standard deviation of the gravity acceleration jerk magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+Timebodygyromagmean:	The mean time of the  gravity gyroscope magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+Timebodygyromagstd:	The time standard deviation of the  gravity gyroscope magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+Timebodygyrojerkmagmean:	The mean time of the  gravity gyroscope jerk magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+Timebodygyrojerkmagstd:	The time standard deviation of the  gravity gyroscope jerk magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+fbodyAccelerationmeanx:	The mean FFT of the acceleration signal from the smartphone accelerometer x axis while the 
+subject doing listed activity
+
+fbodyAccelerationmeany:	The mean FFT of the acceleration signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+fbodyAccelerationmeanz:	The mean FFT of the acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+fbodyAccelerationmeanfreqx:	The mean frequency FFT of the acceleration signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+fbodyAccelerationmeanfreqy:	The mean frequency FFT of the acceleration signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+fbodyAccelerationmeanfreqz:	The mean frequency FFT of the acceleration signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeanx:	The mean FFT of the acceleration jerk signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeany:	The mean FFT of the acceleration jerk signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeanz:	The mean FFT of the acceleration jerk signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeanfreqx:	The mean frequency FFT of the acceleration jerk signal from the smartphone accelerometer x axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeanfreqy:	The mean frequency FFT of the acceleration jerk signal from the smartphone accelerometer y axis while the subject doing listed activity
+
+fbodyAccelerationjerkmeanfreqz:	The mean frequency FFT of the acceleration jerk signal from the smartphone accelerometer z axis while the subject doing listed activity
+
+fbodygyromeanx:	The mean FFT of the gyroscope signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+fbodygyromeany:	The mean FFT of the gyroscope signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+fbodygyromeanz:	The mean FFT of the gyroscope signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+fbodygyromeanfreqx:	The mean frequency FFT of the gyroscope signal from the smartphone gyroscope x axis while the subject doing listed activity
+
+fbodygyromeanfreqy:	The mean frequency FFT of the gyroscope signal from the smartphone gyroscope y axis while the subject doing listed activity
+
+fbodygyromeanfreqz:	The mean frequency FFT of the gyroscope signal from the smartphone gyroscope z axis while the subject doing listed activity
+
+fbodyAccelerationmagmean:	The mean FFT of the acceleration  magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+fbodyAccelerationmagmeanfreq:	The FFT of the acceleration magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+fbodybodyAccelerationjerkmagmean:	The FFT of the acceleration jerk magnitude signal from the smartphone accelerometer while the subject doing listed activity
+
+fbodybodyAccelerationjerkmagmeanfreq:	The FFT of the acceleration jerk magnitude frequency signal from the smartphone accelerometer while the subject doing listed activity
+
+fbodybodygyromagmean:	The mean FFT of the gyroscope magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+fbodybodygyromagmeanfreq:	The mean frequency FFT of the gyroscope magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+fbodybodygyrojerkmagmean:	The mean FFT of the gyroscope jerk magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+fbodybodygyrojerkmagmeanfreq:	The mean frequency FFT of the gyroscope jerk magnitude signal from the smartphone gyroscope while the subject doing listed activity
+
+angleTimebodyAccelerationmeangravity:	The mean time of the  acceleration and  gravity angular velocity signal from the smartphone accelerometer while the subject doing listed activity
+
+angleTimebodyAccelerationjerkmeangravitymean:	The mean time of the  acceleration and  gravity angular velocity jerk signal from the smartphone accelerometer while the subject doing listed activity
+
+angleTimebodygyromeangravitymean:	The mean time of the  gyoscope and  gravity angular velocity signal from the smartphone gyoscope while the subject doing listed activity
+
+angleTimebodygyrojerkmeangravitymean:	The mean time of the  gyroscope and  gravity angular velocity jerk signal from the smartphone gyroscope while the subject doing listed activity
+
+anglexgraviTimeymean:	The mean time of the gravity angular velocity signal from the smartphone  on x axis while the subject doing listed activity
+
+angleygraviTimeymean:	The mean time of the gravity angular velocity signal from the smartphone  on y axis while the subject doing listed activity
+
+anglezgraviTimeymean:	The mean time of the gravity angular velocity signal from the smartphone  on z axis while the subject doing listed activity
+
+
