@@ -1,4 +1,4 @@
-gettingandcleaningdata
+getting and cleaning data
 ======================
 
 Holds course assignment for the getting and cleaning data coursera course
