@@ -1,9 +1,8 @@
 getting and cleaning data
 ======================
-The data for this code is obtained from the UCI machine learning repository:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-The purpose of the code is to generate a table of means for the mean and standard deviation of each subject and each of their activities. Below are the steps to generate the results
------------------------------------------------------------------
+#The data for this code is obtained from the UCI machine learning repository:
+#https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+#The purpose of the code is to generate a table of means for the mean and standard deviation of each subject and each of their activities. Below are the steps to generate the results
 
 Script will first install the Reshape r package if it is not already installed
 
