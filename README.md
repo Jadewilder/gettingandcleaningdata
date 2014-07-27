@@ -5,6 +5,8 @@ Holds course assignment for the getting and cleaning data coursera course
 
 Script will first install the Reshape r package if it is not already installed
 
+A temp file will be created if it does not already exist to unpack the zip file
+
 The zip file will be unpacked and a folder called "UCI HAR Dataset" will be added to the working directory
 
 The records required for the data analysis will be read into R
