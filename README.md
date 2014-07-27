@@ -1,11 +1,12 @@
 getting and cleaning data
 ======================
-
-Holds course assignment for the getting and cleaning data coursera course
+The data for this code is obtained from the UCI machine learning repository:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The purpose of the code is to generate a table of means for the mean and standard deviation of each subject and each of their activities.
 
 Script will first install the Reshape r package if it is not already installed
 
-A temp file will be created if it does not already exist to unpack the zip file
+A temp file will be created if it does not already exist to unpack the zip file 
 
 The zip file will be unpacked and a folder called "UCI HAR Dataset" will be added to the working directory
 
